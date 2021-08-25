@@ -1,0 +1,14 @@
+Font textything has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\textything\textything.gms1.png
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\objects\SavingAndLoadingStuff\KeyPress_13.gml
+Converted string - line 2: "\dsgrid.g" -> "\\dsgrid.g"
+
+Converting GML script: ${project_dir}\objects\SavingAndLoadingStuff\KeyPress_8.gml
+Converted string - line 2: "\dsgrid.g" -> "\\dsgrid.g"
+
+Game speed set to 30
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
